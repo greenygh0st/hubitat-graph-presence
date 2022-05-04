@@ -1,0 +1,12 @@
+{
+  "refreshToken": "<your refresh token>",
+  "accessToken": "",
+  "expiresIn": "",
+  "clientId": "<your client id>",
+  "clientSecret": "<your client secret>",
+  "redirectUri": "<your redirect uri>",
+  "tenantId": "<your tenant id>",
+  "hubitatDeviceUri": "<your device uri>",
+  "hubitatAccessToken": "<your hubitat access token>",
+  "hubitatDeviceId": "<your hubitat device id>"
+}
