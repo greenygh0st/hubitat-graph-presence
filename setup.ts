@@ -68,7 +68,7 @@ class Setup {
                 .then(function (response) {
                     // handle success
                     console.log(response);
-                    console.log();
+                    console.log(response.data.access_token);
                     console.log(response.data.refresh_token);
                 })
                 .catch(function (error) {
